@@ -26,8 +26,7 @@ const EndUserTermsPage: React.FC = () => {
           <LegalSection>
             <LegalSectionTitle>1. Acceptance of Terms</LegalSectionTitle>
             <LegalParagraph>
-              These End-User Terms of Service ("End-User Terms") govern your use of services provided by 
-              {process.env.REACT_APP_COMPANY_NAME} when you interact with our retail discount membership platform and shopping services.
+              These End-User Terms of Service ("End-User Terms") govern your use of services provided by               {process.env.REACT_APP_COMPANY_NAME} when you interact with our retail discount membership platform and shopping services.
             </LegalParagraph>
             <LegalParagraph>
               By creating an account, making purchases, or using our membership benefits, 
